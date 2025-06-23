@@ -15,8 +15,8 @@ Redesigned and built a modern home page for an iOS application. I first created 
 ### Outcome
 The new home page improved first impressions and usability, aligning the product's visual identity with modern UI standards while remaining lightweight and functional.
 
-![HomeScreen](./screenshot4)
+![HomeScreen](./screenshot4.png)
 
-![HomeScreen](./screenshot5)
+![HomeScreen](./screenshot5.png)
 
-![Whiteboard](./screenshot6)
+![Whiteboard](./screenshot6.png)
